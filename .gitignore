@@ -1,0 +1,25 @@
+# Compilação e arquivos gerados
+.build/
+.swiftpm/
+dist/
+*.app/
+*.dSYM/
+.DS_Store
+
+# Configurações locais e relatórios com dados do computador
+.codex/
+.idea/
+.vscode/
+Validation/
+work/
+*.log
+
+# Credenciais e material de assinatura local
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*.json
+*secrets*.json
