@@ -83,6 +83,10 @@ swift script/make_icon.swift Resources
 
 Os arquivos são separados entre cálculos (`MonitorCore`), serviços de coleta/teste, interface e ciclo de vida do aplicativo.
 
+## Licença
+
+Este projeto é distribuído sob a [licença MIT](LICENSE).
+
 ## Referências de APIs
 
 - [Network framework / NWPathMonitor — Apple](https://developer.apple.com/documentation/network/nwpathmonitor)
